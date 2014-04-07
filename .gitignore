@@ -2,3 +2,6 @@
 *.dylib
 *.dll
 docs/
+*Makefile
+*.mk
+out/
